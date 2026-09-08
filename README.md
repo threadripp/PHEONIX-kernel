@@ -1,3 +1,5 @@
+[Video of booting PHEONIX] https://github.com/user-attachments/assets/7efaa844-9d90-4477-832d-97f29efd1bc3
+
 # PHEONIX-kernel
 a new type of open source kernel will rise from the dead, PHEONIX is an open source kernel inspired by linux and based off of XNU, MacOS kernel.
 
