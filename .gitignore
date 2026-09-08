@@ -1,55 +1,13 @@
-# Prerequisites
-*.d
-
-# Object files
+# Build outputs and object files
 *.o
-*.ko
-*.obj
-*.elf
+*.bin
+*.iso
 
-# Linker output
-*.ilk
-*.map
-*.exp
+# Temporary GRUB ISO staging directory
+iso/
 
-# Precompiled Headers
-*.gch
-*.pch
-
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
-
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
-
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
-
-# debug information files
-*.dwo
+# OS and Editor clutter
+.DS_Store
+*.swp
+*.swo
+*~
